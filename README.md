@@ -25,4 +25,5 @@ Following assumptions were made when solving problem (and creating your \assignm
 (a) There is no service time at the nodes (i.e., the salesperson doesn't spend any time at
 any of the nodes; she simply visits each location instantaneously).
 (b) The salesperson must follow the road network, as determined by the \ORS-online" dataProvider.
+
 Register for an API key from openrouteservice, https://openrouteservice.org/dev/#/signup.
