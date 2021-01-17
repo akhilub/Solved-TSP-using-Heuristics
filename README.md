@@ -4,9 +4,9 @@ Solved TSP (traveling salesperson problem) using Nearest Neighbor and Simulated 
 The solveTSP SA(nodesDF, costDict, timeLimit) function accepts three (3) inputs,in the following order:
 
 (a) nodesDF { A VeRoViz \nodes" dataframe containing n locations, numbered 1
-through n. The TSP solution should visit each customer. You may assume that lo-
-cation 1 is the \home" location. Documentation on the dataframe structure may be
-found at https://veroviz.org/docs/nodes.html.
+through n. The TSP solution should visit each customer.
+Location 1 is assumed as  the "home" location. 
+Documentation on the dataframe structure may be found at https://veroviz.org/docs/nodes.html.
 
 (b) costDict { A VeRoViz \time" dictionary describing either the travel time, in [sec-
 onds], from each node to every other node. The contents of costDict will be generated
