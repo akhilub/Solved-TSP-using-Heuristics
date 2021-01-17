@@ -1,7 +1,8 @@
 # Solved-TSP-using-Heuristics
 Solved TSP (traveling salesperson problem) using Nearest Neighbor and Simulated Annealing Method
 
-The solveTSP SA(nodesDF, costDict, timeLimit) function will accept three (3) inputs,in the following order:
+The solveTSP SA(nodesDF, costDict, timeLimit) function accepts three (3) inputs,in the following order:
+
 (a) nodesDF { A VeRoViz \nodes" dataframe containing n locations, numbered 1
 through n. The TSP solution should visit each customer. You may assume that lo-
 cation 1 is the \home" location. Documentation on the dataframe structure may be
