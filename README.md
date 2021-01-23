@@ -44,4 +44,4 @@ TSP route for minimum distance(in m) between nodes
 
 <img src= "images/TSP_distance_route.png" width="1000">
 
-The above results are identical because for a constant/particular speed distance is direstly propotional to time 
+The above results are identical because for a constant/particular speed distance is directly propotional to time 
