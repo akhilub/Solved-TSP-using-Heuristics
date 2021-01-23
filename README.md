@@ -30,13 +30,18 @@ any of the nodes; she simply visits each location instantaneously).
 
 
 
-# Input:-Nodes Coodinates
+## Input:-Nodes Coodinates
 
+<img src= "images/nodes.png" width="1000">
 
-# Output Results
+## Output Results
 
 TSP route for minimum time (in sec) between nodes
 
+<img src= "images/TSP_time_route.png" width="1000">
+
 TSP route for minimum distance(in m) between nodes
+
+<img src= "images/TSP_distance_route.png" width="1000">
 
 The above results are identical because for a constant/particular speed distance is direstly propotional to time 
