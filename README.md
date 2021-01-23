@@ -27,3 +27,16 @@ any of the nodes; she simply visits each location instantaneously).
 (b) The salesperson must follow the road network, as determined by the "ORS-online" dataProvider.
 
  Register for an API key from openrouteservice, https://openrouteservice.org/dev/#/signup.
+
+
+
+# Input:-Nodes Coodinates
+
+
+# Output Results
+
+TSP route for minimum time (in sec) between nodes
+
+TSP route for minimum distance(in m) between nodes
+
+The above results are identical because for a constant/particular speed distance is direstly propotional to time 
